@@ -1,4 +1,5 @@
 **Work in progress for v0.15**
+
 ![Quasar Framework logo](https://cdn.rawgit.com/quasarframework/quasar-art/863c14bd/dist/svg/quasar-logo-full-inline.svg)
 
 # Quasar Framework SSR App Template
